@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Belajar Uacademy</string>
+    <string name="nameEditText">Name : </string>
+    <string name="sayHelloBtn">Say Hello</string>
+    <string name="sayHelloTextView">Hello %1$s</string>
+    <string-array name="names">
+        <item>Mohamad</item>
+        <item>Yusup</item>
+        <item>Permana</item>
+    </string-array>
+
+</resources>
